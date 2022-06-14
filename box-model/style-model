@@ -1,0 +1,15 @@
+/* selector general:
+*{
+ background-color: aqua;
+}*/
+
+.primer-parrafo{
+    /*background-color: #e5e5e5;*/
+    background-color: rgb(150, 35, 89);
+}
+.primer-span{
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
